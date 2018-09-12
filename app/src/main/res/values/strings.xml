@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Trab</string>
+
+    <string name="txtNome">Nome:</string>
+    <string name="txtIdade">Idade:</string>
+    <string name="txtEspecie">Espécie:</string>
+    <string name="txtSelecione">Selecione...</string>
+    <string name="txtSalvar">Salvar</string>
+    <string name="txtCadastro">Cadastro</string>
+    <string name="hintNome">Digite o nome aqui</string>
+    <string name="hintIdade">Digite a idade aqui</string>
+    <string name="selecioneEspecie">Selecione uma espécie</string>
+
+</resources>
